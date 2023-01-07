@@ -1,0 +1,31 @@
+1. download from https://www.postgresql.org/download/macosx/ , then select "download the installer" ,
+2. click the recent version (or https://sbp.enterprisedb.com/getfile.jsp?fileid=1258229 ) 
+3. wait and blame Indonesian ISP for being slow
+4. extract the .dmg, then double click. They might ask for your password, remember, PC password, not icloud or anything fancy
+5. select folder to save the library, just don't change if you don't understand.
+6. make sure all the boxes are checked, we need them
+7. create a root password, (https://cdn.discordapp.com/attachments/1000424996147052555/1061326339858251836/Screenshot_2023-01-07_at_23.51.10.png), 
+    remember this since its hard to reset! Also just click next on the port thing and locale.
+
+    need to be sure? Compare this to your installation wizard:
+
+Installation Directory: /Library/PostgreSQL/15
+Server Installation Directory: /Library/PostgreSQL/15
+Data Directory: /Library/PostgreSQL/15/data
+Database Port: 5432
+Database Superuser: postgres
+Operating System Account: postgres
+Database Service: postgresql-15
+Command Line Tools Installation Directory: /Library/PostgreSQL/15
+pgAdmin4 Installation Directory: /Library/PostgreSQL/15/pgAdmin 4
+Stack Builder Installation Directory: /Library/PostgreSQL/15
+Installation Log: /tmp/install-postgresql.log
+
+8. finally install the postgres
+9. DONT check the last checkbox, (that's kinda adware lol)
+10. go to app launchpad (for macpro with touchbar users, we re talking about 
+    (https://cdn.discordapp.com/attachments/1000424996147052555/1061331050485252198/Touch_Bar_Shot_2023-01-08_at_00.10.16.png 
+    that six boxes icon)
+11. set another password but i'd suggest it is the same with number 7 
+    (https://cdn.discordapp.com/attachments/1000424996147052555/1061329604813533205/Screenshot_2023-01-08_at_00.04.36.png)
+12. all set for now, we can go to the course. 

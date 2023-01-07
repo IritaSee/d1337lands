@@ -1,0 +1,18 @@
+So I asked this to chatGPT and it says:
+
+Structured Query Language (SQL) is a programming language used to communicate with databases. 
+It is the standard language for managing and manipulating data stored in relational database management systems (RDBMS). 
+Learning SQL allows you to effectively manage and manipulate data in a database, which is a crucial skill for many roles in the tech industry, 
+such as data analysts, data scientists, and database administrators.
+
+By learning SQL, you can:
+
+-Write queries to retrieve and manipulate data from a database
+-Create, modify, and delete database objects such as tables and views
+-Control access to data and secure the database
+-Create database reports and analyses
+-Overall, learning SQL is important because it is a widely-used and powerful tool for managing and analyzing data, 
+and is an essential skill for anyone working with data in the tech industry.
+
+quite obvious now right? We cannot be a good data player without (at least, bearable) skill of SQL. As we know, the data game has got its hype now.
+Some kind of false and too good to be true ads of data scientist job also has been uptrending. Then what are you waiting for??
