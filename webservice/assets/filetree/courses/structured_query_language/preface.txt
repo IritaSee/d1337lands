@@ -14,5 +14,28 @@ By learning SQL, you can:
 -Overall, learning SQL is important because it is a widely-used and powerful tool for managing and analyzing data, 
 and is an essential skill for anyone working with data in the tech industry.
 
+
+Learning PostgreSQL can be a rewarding experience, as it is a powerful and open-source database management system that is widely used in the industry. 
+Here are some steps you can follow to get started with learning PostgreSQL:
+
+-Install PostgreSQL: First, you will need to install PostgreSQL on your computer. 
+You can download the latest version from the official website (https://www.postgresql.org/download/) and follow the installation instructions.
+
+-Explore the documentation: PostgreSQL has excellent documentation available online at https://www.postgresql.org/docs/. 
+You can start by reading the documentation to get a sense of the features and capabilities of the database.
+
+-Set up a test database: You can set up a test database on your local machine to play around with and try out different SQL commands. 
+You can do this by connecting to the database using a client such as psql and creating a new database and tables.
+
+-Learn SQL: SQL (Structured Query Language) is the language that is used to interact with databases like PostgreSQL. 
+It is essential to learn the basics of SQL to be able to use PostgreSQL effectively. You can find many resources online to learn SQL, such as tutorials 
+and documentation.
+
+-Practice: The best way to learn is by doing, so it is essential to practice what you have learned. 
+You can create different types of tables and try out different SQL commands to get a feel for how the database works.
+
+-Explore advanced features: Once you have a good understanding of the basics, you can start exploring the advanced features of PostgreSQL 
+such as stored procedures, triggers, and views. You can also try working with larger datasets and learn how to optimize the database for better performance.
+
 quite obvious now right? We cannot be a good data player without (at least, bearable) skill of SQL. As we know, the data game has got its hype now.
 Some kind of false and too good to be true ads of data scientist job also has been uptrending. Then what are you waiting for??
